@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="689.5833px" preserveAspectRatio="none" style="width:435px;height:689px;background:#00000000;" version="1.1" viewBox="0 0 435 689" width="435.4167px" zoomAndPan="magnify"><defs/><g><rect fill="#15395F" height="43.0013" style="stroke:#15395F;stroke-width:1.5625;" width="407.2917" x="12.5" y="12.5"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="20.8333" lengthAdjust="spacing" textLength="382.2917" x="25" y="41.213">Activity Diagram - blue-nexus theme</text><ellipse cx="213.0208" cy="69.043" fill="#15395F" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="61.4583" x="182.2917" y="100.293"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="196.875" y="128.4129">start</text><rect fill="#15395F" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="303.125" x="66.1458" y="167.2689"/><rect fill="#F5F5F5" height="187.3861" style="stroke:#999999;stroke-width:1.0416666666666667;" width="102.0833" x="78.6458" y="183.9355"/><path d="M179.6875,183.9355 L179.6875,201.9531 L169.2708,212.3698 L78.6458,212.3698 " fill="none" style="stroke:#999999;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="82.2917" x="85.9375" y="202.6805">My Partition</text><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="61.4583" x="103.6458" y="230.0781"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="118.2292" y="258.198">foo1</text><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="61.4583" x="103.6458" y="312.679"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="118.2292" y="340.799">foo2</text><path d="M292.1875,263.9323 L292.1875,277.6286 L271.3542,281.7952 L292.1875,285.9619 L292.1875,299.6582 A0,0 0 0 0 292.1875,299.6582 L356.7708,299.6582 A0,0 0 0 0 356.7708,299.6582 L356.7708,274.349 L346.3542,263.9323 L292.1875,263.9323 A0,0 0 0 0 292.1875,263.9323 " fill="#FFF4D1" style="stroke:#15395F;stroke-width:1.0416666666666667;"/><path d="M346.3542,263.9323 L346.3542,274.349 L356.7708,274.349 L346.3542,263.9323 " fill="#FFF4D1" style="stroke:#15395F;stroke-width:1.0416666666666667;"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="34.375" x="302.6042" y="286.8439">Note</text><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="61.4583" x="209.8958" y="258.724"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="224.4792" y="286.8439">foo3</text><rect fill="#15395F" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="303.125" x="66.1458" y="392.1549"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="61.4583" x="182.2917" y="475.9521"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="196.875" y="504.0721">foo5</text><polygon fill="#F5F5F5" points="192.7083,419.2383,233.3333,419.2383,245.8333,431.8929,233.3333,444.5475,192.7083,444.5475,180.2083,431.8929,192.7083,419.2383" style="stroke:#999999;stroke-width:1.5625;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="25" x="221.3542" y="462.2508">yes</text><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="196.875" y="436.9415">foo4</text><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="18.75" x="250" y="424.2869">no</text><ellipse cx="295.8333" cy="431.8929" rx="11.4583" ry="11.4583" style="stroke:#15395F;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="295.8333" cy="431.8929" fill="#15395F" rx="6.25" ry="6.25" style="stroke:#0A1C2F;stroke-width:1.0416666666666667;"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="61.4583" x="182.2917" y="532.5114"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="196.875" y="560.6313">foo6</text><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="61.4583" x="182.2917" y="589.0706"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="32.2917" x="196.875" y="617.1906">foo7</text><ellipse cx="213.0208" cy="667.5049" rx="11.4583" ry="11.4583" style="stroke:#15395F;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="213.0208" cy="667.5049" fill="#15395F" rx="6.25" ry="6.25" style="stroke:#0A1C2F;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="213.0208" x2="213.0208" y1="79.4596" y2="100.293"/><polygon fill="#999999" points="208.8542,89.8763,213.0208,100.293,217.1875,89.8763,213.0208,94.043" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="134.375" x2="134.375" y1="276.2207" y2="312.679"/><polygon fill="#999999" points="130.2083,302.2624,134.375,312.679,138.5417,302.2624,134.375,306.429" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="134.375" x2="134.375" y1="173.5189" y2="230.0781"/><polygon fill="#999999" points="130.2083,219.6615,134.375,230.0781,138.5417,219.6615,134.375,223.8281" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="240.625" x2="240.625" y1="173.5189" y2="258.724"/><polygon fill="#999999" points="236.4583,248.3073,240.625,258.724,244.7917,248.3073,240.625,252.474" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="134.375" x2="134.375" y1="358.8216" y2="392.1549"/><polygon fill="#999999" points="130.2083,381.7383,134.375,392.1549,138.5417,381.7383,134.375,385.9049" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="213.0208" x2="213.0208" y1="146.4355" y2="167.2689"/><polygon fill="#999999" points="208.8542,156.8522,213.0208,167.2689,217.1875,156.8522,213.0208,161.0189" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="213.0208" x2="213.0208" y1="444.5475" y2="475.9521"/><polygon fill="#999999" points="208.8542,465.5355,213.0208,475.9521,217.1875,465.5355,213.0208,469.7021" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="245.8333" x2="284.375" y1="431.8929" y2="431.8929"/><polygon fill="#999999" points="273.9583,427.7262,284.375,431.8929,273.9583,436.0596,278.125,431.8929" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="213.0208" x2="213.0208" y1="398.4049" y2="419.2383"/><polygon fill="#999999" points="208.8542,408.8216,213.0208,419.2383,217.1875,408.8216,213.0208,412.9883" style="stroke:#999999;stroke-width:1.0416666666666667;"/><line style="stroke:#999999;stroke-width:1.5625;" x1="213.0208" x2="213.0208" y1="635.2132" y2="656.0465"/><polygon fill="#999999" points="208.8542,645.6299,213.0208,656.0465,217.1875,645.6299,213.0208,649.7965" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[60ce1cda0778d9b3d1af3cb7c93afe6f]
+@startuml
+
+!$THEME = "blue-nexus"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+!$WHITE = "#fff"
+!$BLACK = "#000"
+!$GRAY = "#999"
+!$PRIMARY = "#0C98D6"
+!$SECONDARY = "#F5F5F5"
+!$SUCCESS = "#51ADA1"
+!$INFO = "#2396D6"
+!$WARNING = "#F3BB00"
+!$DANGER = "#E84927"
+!$LIGHT = "#F1F1F1"
+!$DARK = "#15395F"
+
+!$FGCOLOR = $BLACK
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_TEXT = $FGCOLOR
+!$SECONDARY_BORDER = $GRAY
+
+!$INFO_TEXT = $WHITE
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_TEXT = $WHITE
+!$DANGER_TEXT = $WHITE
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $DARK
+	BorderColor $DARK
+!endprocedure
+
+!procedure $outline_scheme()
+	FontColor $DARK
+	BackgroundColor $WHITE
+	BorderColor $DARK
+!endprocedure
+
+!procedure $secondary_scheme()
+	FontColor $SECONDARY_TEXT
+	BorderColor $SECONDARY_BORDER
+	BackgroundColor $SECONDARY
+	BorderThickness 	         1
+!endprocedure
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       $DARK
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             $SECONDARY_BORDER
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_BORDER
+    CBorderColor $SECONDARY_BORDER
+    ABackgroundColor $SUCCESS
+    ABorderColor $SUCCESS
+    IBackgroundColor $DANGER
+    IBorderColor $DANGER
+    EBackgroundColor $WARNING
+    EBorderColor $WARNING
+    NBackgroundColor $INFO
+    NBorderColor $DARK
+}
+skinparam title {
+	$primary_scheme()
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $SECONDARY_BORDER
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY
+	TitleFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $DARK
+	StartColor $DARK
+	EndColor $DARK
+	DiamondBackgroundColor $SECONDARY
+  	DiamondBorderColor $SECONDARY_BORDER
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 1
+	Color $SECONDARY_BORDER
+	FontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $DARK
+	EndColor $DARK
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARK
+	DelayFontColor $DARK
+	LifeLineBorderColor $DARK
+	LifeLineBackgroundColor $DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderBackgroundColor $SECONDARY_BORDER
+	GroupBackgroundColor $DARK
+	GroupBodyBackgroundColor $BGCOLOR
+	GroupHeaderFontColor $PRIMARY_TEXT
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor $SECONDARY
+    DividerBorderColor $SECONDARY_BORDER
+    DividerFontColor $SECONDARY_TEXT
+	ReferenceHeaderBackgroundColor $DARK
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $PRIMARY
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$outline_scheme()
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$outline_scheme()
+}
+skinparam participant {
+  FontColor $DARK
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$outline_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$outline_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$outline_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	$outline_scheme()
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$outline_scheme()
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	$outline_scheme()
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$outline_scheme()
+	BackgroundColor $WHITE
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $BGCOLOR
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	$primary_scheme()
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	$primary_scheme()
+}
+!endsub
+
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeIconSize 14
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$outline_scheme()
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	$primary_scheme()
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	$primary_scheme()
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$outline_scheme()
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$secondary_scheme()
+	StartColor $DARK
+	EndColor $DARK
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Activity Diagram - $THEME theme
+!else
+title Activity Diagram
+!endif
+
+'skinparam BackgroundColor black
+
+start
+ :start;
+ fork
+  partition "My Partition" {
+   :foo1;
+   :foo2;
+  }
+ fork again
+   :foo3;
+   note right: Note
+   detach
+ endfork
+ if (foo4) then (yes)
+   :foo5;
+   detach
+ else (no)
+  stop
+ endif
+ :foo6;
+ detach
+ :foo7;
+ stop
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       #15395F
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             #999
+skinparam stereotype {
+    CBackgroundColor #999
+    CBorderColor #999
+    ABackgroundColor #51ADA1
+    ABorderColor #51ADA1
+    IBackgroundColor #E84927
+    IBorderColor #E84927
+    EBackgroundColor #F3BB00
+    EBorderColor #F3BB00
+    NBackgroundColor #2396D6
+    NBorderColor #15395F
+}
+skinparam title {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+skinparam swimlane {
+	BorderColor #999
+	BorderThickness 2
+	TitleBackgroundColor  #F5F5F5
+	TitleFontColor #000
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	BarColor #15395F
+	StartColor #15395F
+	EndColor #15395F
+	DiamondBackgroundColor #F5F5F5
+  	DiamondBorderColor #999
+	DiamondFontColor #000
+}
+
+
+skinparam arrow {
+	Thickness 1
+	Color #999
+	FontColor #000
+}
+
+
+skinparam partition {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam sequence {
+	BorderColor #0C98D6
+	TitleFontColor #0C98D6
+	BackgroundColor transparent
+	StartColor #15395F
+	EndColor #15395F
+	BoxBackgroundColor transparent
+	BoxBorderColor #15395F
+	BoxFontColor #15395F
+	DelayFontColor #15395F
+	LifeLineBorderColor #15395F
+	LifeLineBackgroundColor #15395F
+	GroupBorderColor #15395F
+	GroupFontColor #15395F
+	GroupHeaderBackgroundColor #999
+	GroupBackgroundColor #15395F
+	GroupBodyBackgroundColor transparent
+	GroupHeaderFontColor #fff
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor #F5F5F5
+    DividerBorderColor #999
+    DividerFontColor #000
+	ReferenceHeaderBackgroundColor #15395F
+	ReferenceBorderColor #15395F
+	ReferenceFontColor #15395F
+	ReferenceHeaderFontColor #0C98D6
+	StereotypeFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam actor {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam collections {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+skinparam participant {
+  FontColor #15395F
+}
+
+
+skinparam control {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam entity {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam boundary {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam agent {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam database {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+
+skinparam artifact {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam component {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+	BackgroundColor #fff
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #E84927
+	FontColor #15395F
+}
+
+
+skinparam storage {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam node {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam cloud {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+
+skinparam class {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+	AttributeIconSize 14
+}
+
+
+skinparam object {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam rectangle {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam package {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam folder {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam frame {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam queue {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam card {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam file {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam stack {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam state {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+	StartColor #15395F
+	EndColor #15395F
+	AttributeFontColor #000
+	AttributeFontSize 11
+}
+
+title Activity Diagram - blue-nexus theme
+
+
+start
+ :start;
+ fork
+  partition "My Partition" {
+   :foo1;
+   :foo2;
+  }
+ fork again
+   :foo3;
+   note right: Note
+   detach
+ endfork
+ if (foo4) then (yes)
+   :foo5;
+   detach
+ else (no)
+  stop
+ endif
+ :foo6;
+ detach
+ :foo7;
+ stop
+@enduml
+
+PlantUML version 1.2021.01(Tue Feb 02 08:55:08 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="512.5px" preserveAspectRatio="none" style="width:838px;height:512px;background:#00000000;" version="1.1" viewBox="0 0 838 512" width="838.5417px" zoomAndPan="magnify"><defs/><g><rect fill="#15395F" height="43.0013" style="stroke:#15395F;stroke-width:1.5625;" width="507.2917" x="154.4271" y="12.5"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="20.8333" lengthAdjust="spacing" textLength="482.2917" x="166.9271" y="41.213">Work Breakdown Diagram - blue-nexus theme</text><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="86.4583" x="365.3646" y="58.6263"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="57.2917" x="379.9479" y="86.7462">New Job</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="408.5938" x2="408.5938" y1="104.7689" y2="125.6022"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="220.3125" x2="220.3125" y1="125.6022" y2="146.4355"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="235.4167" x="102.6042" y="146.4355"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="206.25" x="117.1875" y="174.5555">Decide on Job Requirements</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="209.8958" x2="220.3125" y1="231.2744" y2="231.2744"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="94.7917" x="115.1042" y="208.2031"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="65.625" x="129.6875" y="236.323">Checklist</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="152.0833" x2="162.5" y1="293.042" y2="293.042"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="141.6667" x="10.4167" y="269.9707"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="112.5" x="25" y="298.0906">Responsibilities</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="152.0833" x2="162.5" y1="354.8096" y2="354.8096"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="89.5833" x="62.5" y="331.7383"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="60.4167" x="77.0833" y="359.8582">Location</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="162.5" x2="162.5" y1="254.3457" y2="354.8096"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="220.3125" x2="230.7292" y1="231.2744" y2="231.2744"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="120.8333" x="230.7292" y="208.2031"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="91.6667" x="245.3125" y="236.323">Identity gaps</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="220.3125" x2="230.7292" y1="293.042" y2="293.042"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="107.2917" x="230.7292" y="269.9707"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="78.125" x="245.3125" y="298.0906">Review JDs</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="284.375" x2="294.7917" y1="354.8096" y2="354.8096"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="170.8333" x="294.7917" y="331.7383"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="141.6667" x="309.375" y="359.8582">Sign-Up for courses</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="284.375" x2="294.7917" y1="416.5771" y2="416.5771"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="98.9583" x="294.7917" y="393.5059"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="69.7917" x="309.375" y="421.6258">Volunteer</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="284.375" x2="294.7917" y1="478.3447" y2="478.3447"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="88.5417" x="294.7917" y="455.2734"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="59.375" x="309.375" y="483.3934">Reading</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="284.375" x2="284.375" y1="316.1133" y2="478.3447"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="220.3125" x2="220.3125" y1="192.5781" y2="293.042"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="559.8958" x2="559.8958" y1="125.6022" y2="146.4355"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="146.875" x="486.4583" y="146.4355"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="117.7083" x="501.0417" y="174.5555">CV Upload Done</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="559.8958" x2="588.0208" y1="231.2744" y2="231.2744"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="114.5833" x="588.0208" y="208.2031"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="85.4167" x="602.6042" y="236.323">CV Updated</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="634.8958" x2="645.3125" y1="293.042" y2="293.042"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="64.5833" x="570.3125" y="269.9707"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="35.4167" x="584.8958" y="298.0906">Skills</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="645.3125" x2="655.7292" y1="293.042" y2="293.042"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="171.875" x="655.7292" y="269.9707"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="142.7083" x="670.3125" y="298.0906">Spelling &amp; Grammar</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="645.3125" x2="655.7292" y1="354.8096" y2="354.8096"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="119.7917" x="655.7292" y="331.7383"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="90.625" x="670.3125" y="359.8582">Check dates</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="645.3125" x2="645.3125" y1="254.3457" y2="354.8096"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="559.8958" x2="570.3125" y1="416.5771" y2="416.5771"/><rect fill="#15395F" height="46.1426" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="214.5833" x="570.3125" y="393.5059"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="185.4167" x="584.8958" y="421.6258">Recruitment sites chosen</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="559.8958" x2="559.8958" y1="192.5781" y2="416.5771"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="220.3125" x2="559.8958" y1="125.6022" y2="125.6022"/><!--MD5=[03408e39ffcc31f96aa57a758b501b43]
+@startwbs
+
+!$THEME = "blue-nexus"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+!$WHITE = "#fff"
+!$BLACK = "#000"
+!$GRAY = "#999"
+!$PRIMARY = "#0C98D6"
+!$SECONDARY = "#F5F5F5"
+!$SUCCESS = "#51ADA1"
+!$INFO = "#2396D6"
+!$WARNING = "#F3BB00"
+!$DANGER = "#E84927"
+!$LIGHT = "#F1F1F1"
+!$DARK = "#15395F"
+
+!$FGCOLOR = $BLACK
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_TEXT = $FGCOLOR
+!$SECONDARY_BORDER = $GRAY
+
+!$INFO_TEXT = $WHITE
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_TEXT = $WHITE
+!$DANGER_TEXT = $WHITE
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $DARK
+	BorderColor $DARK
+!endprocedure
+
+!procedure $outline_scheme()
+	FontColor $DARK
+	BackgroundColor $WHITE
+	BorderColor $DARK
+!endprocedure
+
+!procedure $secondary_scheme()
+	FontColor $SECONDARY_TEXT
+	BorderColor $SECONDARY_BORDER
+	BackgroundColor $SECONDARY
+	BorderThickness 	         1
+!endprocedure
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       $DARK
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             $SECONDARY_BORDER
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_BORDER
+    CBorderColor $SECONDARY_BORDER
+    ABackgroundColor $SUCCESS
+    ABorderColor $SUCCESS
+    IBackgroundColor $DANGER
+    IBorderColor $DANGER
+    EBackgroundColor $WARNING
+    EBorderColor $WARNING
+    NBackgroundColor $INFO
+    NBorderColor $DARK
+}
+skinparam title {
+	$primary_scheme()
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $SECONDARY_BORDER
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY
+	TitleFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $DARK
+	StartColor $DARK
+	EndColor $DARK
+	DiamondBackgroundColor $SECONDARY
+  	DiamondBorderColor $SECONDARY_BORDER
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 1
+	Color $SECONDARY_BORDER
+	FontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $DARK
+	EndColor $DARK
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARK
+	DelayFontColor $DARK
+	LifeLineBorderColor $DARK
+	LifeLineBackgroundColor $DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderBackgroundColor $SECONDARY_BORDER
+	GroupBackgroundColor $DARK
+	GroupBodyBackgroundColor $BGCOLOR
+	GroupHeaderFontColor $PRIMARY_TEXT
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor $SECONDARY
+    DividerBorderColor $SECONDARY_BORDER
+    DividerFontColor $SECONDARY_TEXT
+	ReferenceHeaderBackgroundColor $DARK
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $PRIMARY
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$outline_scheme()
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$outline_scheme()
+}
+skinparam participant {
+  FontColor $DARK
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$outline_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$outline_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$outline_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	$outline_scheme()
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$outline_scheme()
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	$outline_scheme()
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$outline_scheme()
+	BackgroundColor $WHITE
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $BGCOLOR
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	$primary_scheme()
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	$primary_scheme()
+}
+!endsub
+
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeIconSize 14
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$outline_scheme()
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	$primary_scheme()
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	$primary_scheme()
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$outline_scheme()
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$secondary_scheme()
+	StartColor $DARK
+	EndColor $DARK
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Work Breakdown Diagram - $THEME theme
+!else
+title Work Breakdown Diagram
+!endif
+
+!$DIAGRAM = "wbs"
+
++ New Job
+++ Decide on Job Requirements
++++ Identity gaps
++++ Review JDs
+++++ Sign-Up for courses
+++++ Volunteer
+++++ Reading
+++- Checklist
++++- Responsibilities
++++- Location
+++ CV Upload Done
++++ CV Updated
+++++ Spelling & Grammar
+++++ Check dates
+- - - - Skills
++++ Recruitment sites chosen
+@endwbs
+
+@startwbs
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       #15395F
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             #999
+skinparam stereotype {
+    CBackgroundColor #999
+    CBorderColor #999
+    ABackgroundColor #51ADA1
+    ABorderColor #51ADA1
+    IBackgroundColor #E84927
+    IBorderColor #E84927
+    EBackgroundColor #F3BB00
+    EBorderColor #F3BB00
+    NBackgroundColor #2396D6
+    NBorderColor #15395F
+}
+skinparam title {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+skinparam swimlane {
+	BorderColor #999
+	BorderThickness 2
+	TitleBackgroundColor  #F5F5F5
+	TitleFontColor #000
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	BarColor #15395F
+	StartColor #15395F
+	EndColor #15395F
+	DiamondBackgroundColor #F5F5F5
+  	DiamondBorderColor #999
+	DiamondFontColor #000
+}
+
+
+skinparam arrow {
+	Thickness 1
+	Color #999
+	FontColor #000
+}
+
+
+skinparam partition {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam sequence {
+	BorderColor #0C98D6
+	TitleFontColor #0C98D6
+	BackgroundColor transparent
+	StartColor #15395F
+	EndColor #15395F
+	BoxBackgroundColor transparent
+	BoxBorderColor #15395F
+	BoxFontColor #15395F
+	DelayFontColor #15395F
+	LifeLineBorderColor #15395F
+	LifeLineBackgroundColor #15395F
+	GroupBorderColor #15395F
+	GroupFontColor #15395F
+	GroupHeaderBackgroundColor #999
+	GroupBackgroundColor #15395F
+	GroupBodyBackgroundColor transparent
+	GroupHeaderFontColor #fff
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor #F5F5F5
+    DividerBorderColor #999
+    DividerFontColor #000
+	ReferenceHeaderBackgroundColor #15395F
+	ReferenceBorderColor #15395F
+	ReferenceFontColor #15395F
+	ReferenceHeaderFontColor #0C98D6
+	StereotypeFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam actor {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam collections {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+skinparam participant {
+  FontColor #15395F
+}
+
+
+skinparam control {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam entity {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam boundary {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam agent {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam database {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+
+skinparam artifact {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam component {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+	BackgroundColor #fff
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #E84927
+	FontColor #15395F
+}
+
+
+skinparam storage {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam node {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam cloud {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+
+skinparam class {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+	AttributeIconSize 14
+}
+
+
+skinparam object {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam rectangle {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam package {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam folder {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam frame {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam queue {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam card {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam file {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam stack {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam state {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+	StartColor #15395F
+	EndColor #15395F
+	AttributeFontColor #000
+	AttributeFontSize 11
+}
+
+title Work Breakdown Diagram - blue-nexus theme
+
+
++ New Job
+++ Decide on Job Requirements
++++ Identity gaps
++++ Review JDs
+++++ Sign-Up for courses
+++++ Volunteer
+++++ Reading
+++- Checklist
++++- Responsibilities
++++- Location
+++ CV Upload Done
++++ CV Updated
+++++ Spelling & Grammar
+++++ Check dates
+- - - - Skills
++++ Recruitment sites chosen
+@endwbs
+
+PlantUML version 1.2021.01(Tue Feb 02 08:55:08 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="485.4167px" preserveAspectRatio="none" style="width:427px;height:485px;background:#00000000;" version="1.1" viewBox="0 0 427 485" width="427.0833px" zoomAndPan="magnify"><defs/><g><rect fill="#15395F" height="43.0013" style="stroke:#15395F;stroke-width:1.5625;" width="414.5833" x="2.0833" y="2.0833"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="20.8333" lengthAdjust="spacing" textLength="389.5833" x="14.5833" y="30.7963">Usecase Diagram - blue-nexus theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><rect fill="#FFFFFF" height="313.5417" style="stroke:#15395F;stroke-width:1.5625;" width="164.5833" x="141.4063" y="55.5013"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" font-weight="bold" lengthAdjust="spacing" textLength="76.0417" x="185.6771" y="75.2879">checkout</text><ellipse cx="223.8063" cy="226.5226" fill="#15395F" rx="65.7334" ry="21.0213" style="stroke:#15395F;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="67.7083" x="189.9522" y="229.4879">checkout</text><ellipse cx="223.7693" cy="121.3143" fill="#15395F" rx="62.0506" ry="21.0213" style="stroke:#15395F;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="62.5" x="192.5193" y="124.2796">payment</text><ellipse cx="223.5472" cy="331.731" fill="#15395F" rx="39.9535" ry="21.0213" style="stroke:#15395F;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="31.25" x="207.9222" y="334.6963">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><ellipse cx="53.9063" cy="199.2513" fill="#FFFFFF" rx="16.6667" ry="16.6667" style="stroke:#15395F;stroke-width:1.5625;"/><path d="M53.9063,220.0846 C58.0729,220.0846 61.1979,220.0846 65.3646,215.918 C73.6979,215.918 82.0313,224.2513 82.0313,232.5846 L82.0313,236.7513 C82.0313,240.918 77.8646,245.0846 73.6979,245.0846 L34.1146,245.0846 C29.9479,245.0846 25.7813,240.918 25.7813,236.7513 L25.7813,232.5846 C25.7813,224.2513 34.1146,215.918 42.4479,215.918 C46.6146,220.0846 49.7396,220.0846 53.9063,220.0846 " fill="#FFFFFF" style="stroke:#15395F;stroke-width:1.5625;"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="68.75" x="19.5313" y="264.3504">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><ellipse cx="384.6354" cy="199.2513" fill="#FFFFFF" rx="16.6667" ry="16.6667" style="stroke:#15395F;stroke-width:1.5625;"/><path d="M384.6354,220.0846 C388.8021,220.0846 391.9271,220.0846 396.0938,215.918 C404.4271,215.918 412.7604,224.2513 412.7604,232.5846 L412.7604,236.7513 C412.7604,240.918 408.5938,245.0846 404.4271,245.0846 L364.8438,245.0846 C360.6771,245.0846 356.5104,240.918 356.5104,236.7513 L356.5104,232.5846 C356.5104,224.2513 364.8438,215.918 373.1771,215.918 C377.3438,220.0846 380.4688,220.0846 384.6354,220.0846 " fill="#FFFFFF" style="stroke:#15395F;stroke-width:1.5625;"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="34.375" x="367.4479" y="264.3504">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M92.5833,226.3346 C111.8021,226.3346 135.7292,226.3346 157.8021,226.3346 " fill="none" id="customer-checkout" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M223.6979,205.043 C223.6979,188.3971 223.6979,165.1576 223.6979,147.3659 " fill="none" id="checkout-to-payment" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="#999999" points="223.6979,142.0221,219.5313,151.3971,223.6979,147.2305,227.8646,151.3971,223.6979,142.0221" style="stroke:#999999;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="52.0833" x="180.9896" y="178.9337">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M223.6979,310.2513 C223.6979,293.6055 223.6979,270.3659 223.6979,252.5742 " fill="none" id="help-to-checkout" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="#999999" points="223.6979,247.2305,219.5313,256.6055,223.6979,252.4388,227.8646,256.6055,223.6979,247.2305" style="stroke:#999999;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="58.3333" x="177.8646" y="284.142">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M289.3542,226.3346 C312.0313,226.3346 336.375,226.3346 354.6458,226.3346 " fill="none" id="checkout-clerk" style="stroke:#999999;stroke-width:1.0416666666666667;"/><rect fill="#FFF4D1" height="86.6536" rx="5.2083" ry="5.2083" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="260.4167" x="79.1667" y="382.5846"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="125" x="89.5833" y="405.4962">This is my legend</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="239.5833" x="89.5833" y="422.4721">it can have a long list of stuff here</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="223.9583" x="89.5833" y="439.448">and it can go on and on and on</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="97.9167" x="89.5833" y="456.424">that's about it</text><!--MD5=[7cfa8b02aaa0782cf3e005a0d76b6d8a]
+@startuml
+
+!$THEME = "blue-nexus"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+!$WHITE = "#fff"
+!$BLACK = "#000"
+!$GRAY = "#999"
+!$PRIMARY = "#0C98D6"
+!$SECONDARY = "#F5F5F5"
+!$SUCCESS = "#51ADA1"
+!$INFO = "#2396D6"
+!$WARNING = "#F3BB00"
+!$DANGER = "#E84927"
+!$LIGHT = "#F1F1F1"
+!$DARK = "#15395F"
+
+!$FGCOLOR = $BLACK
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_TEXT = $FGCOLOR
+!$SECONDARY_BORDER = $GRAY
+
+!$INFO_TEXT = $WHITE
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_TEXT = $WHITE
+!$DANGER_TEXT = $WHITE
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $DARK
+	BorderColor $DARK
+!endprocedure
+
+!procedure $outline_scheme()
+	FontColor $DARK
+	BackgroundColor $WHITE
+	BorderColor $DARK
+!endprocedure
+
+!procedure $secondary_scheme()
+	FontColor $SECONDARY_TEXT
+	BorderColor $SECONDARY_BORDER
+	BackgroundColor $SECONDARY
+	BorderThickness 	         1
+!endprocedure
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       $DARK
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             $SECONDARY_BORDER
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_BORDER
+    CBorderColor $SECONDARY_BORDER
+    ABackgroundColor $SUCCESS
+    ABorderColor $SUCCESS
+    IBackgroundColor $DANGER
+    IBorderColor $DANGER
+    EBackgroundColor $WARNING
+    EBorderColor $WARNING
+    NBackgroundColor $INFO
+    NBorderColor $DARK
+}
+skinparam title {
+	$primary_scheme()
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $SECONDARY_BORDER
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY
+	TitleFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $DARK
+	StartColor $DARK
+	EndColor $DARK
+	DiamondBackgroundColor $SECONDARY
+  	DiamondBorderColor $SECONDARY_BORDER
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 1
+	Color $SECONDARY_BORDER
+	FontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $DARK
+	EndColor $DARK
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARK
+	DelayFontColor $DARK
+	LifeLineBorderColor $DARK
+	LifeLineBackgroundColor $DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderBackgroundColor $SECONDARY_BORDER
+	GroupBackgroundColor $DARK
+	GroupBodyBackgroundColor $BGCOLOR
+	GroupHeaderFontColor $PRIMARY_TEXT
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor $SECONDARY
+    DividerBorderColor $SECONDARY_BORDER
+    DividerFontColor $SECONDARY_TEXT
+	ReferenceHeaderBackgroundColor $DARK
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $PRIMARY
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$outline_scheme()
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$outline_scheme()
+}
+skinparam participant {
+  FontColor $DARK
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$outline_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$outline_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$outline_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	$outline_scheme()
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$outline_scheme()
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	$outline_scheme()
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$outline_scheme()
+	BackgroundColor $WHITE
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $BGCOLOR
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	$primary_scheme()
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	$primary_scheme()
+}
+!endsub
+
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeIconSize 14
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$outline_scheme()
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	$primary_scheme()
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	$primary_scheme()
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$outline_scheme()
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$secondary_scheme()
+	StartColor $DARK
+	EndColor $DARK
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Usecase Diagram - $THEME theme
+!else
+title Usecase Diagram
+!endif
+
+legend
+This is my legend
+it can have a long list of stuff here
+and it can go on and on and on
+that's about it
+endlegend
+
+'skinparam BackgroundColor transparent
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       #15395F
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             #999
+skinparam stereotype {
+    CBackgroundColor #999
+    CBorderColor #999
+    ABackgroundColor #51ADA1
+    ABorderColor #51ADA1
+    IBackgroundColor #E84927
+    IBorderColor #E84927
+    EBackgroundColor #F3BB00
+    EBorderColor #F3BB00
+    NBackgroundColor #2396D6
+    NBorderColor #15395F
+}
+skinparam title {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+skinparam swimlane {
+	BorderColor #999
+	BorderThickness 2
+	TitleBackgroundColor  #F5F5F5
+	TitleFontColor #000
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	BarColor #15395F
+	StartColor #15395F
+	EndColor #15395F
+	DiamondBackgroundColor #F5F5F5
+  	DiamondBorderColor #999
+	DiamondFontColor #000
+}
+
+
+skinparam arrow {
+	Thickness 1
+	Color #999
+	FontColor #000
+}
+
+
+skinparam partition {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam sequence {
+	BorderColor #0C98D6
+	TitleFontColor #0C98D6
+	BackgroundColor transparent
+	StartColor #15395F
+	EndColor #15395F
+	BoxBackgroundColor transparent
+	BoxBorderColor #15395F
+	BoxFontColor #15395F
+	DelayFontColor #15395F
+	LifeLineBorderColor #15395F
+	LifeLineBackgroundColor #15395F
+	GroupBorderColor #15395F
+	GroupFontColor #15395F
+	GroupHeaderBackgroundColor #999
+	GroupBackgroundColor #15395F
+	GroupBodyBackgroundColor transparent
+	GroupHeaderFontColor #fff
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor #F5F5F5
+    DividerBorderColor #999
+    DividerFontColor #000
+	ReferenceHeaderBackgroundColor #15395F
+	ReferenceBorderColor #15395F
+	ReferenceFontColor #15395F
+	ReferenceHeaderFontColor #0C98D6
+	StereotypeFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam actor {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam collections {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+skinparam participant {
+  FontColor #15395F
+}
+
+
+skinparam control {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam entity {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam boundary {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam agent {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam database {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+
+skinparam artifact {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam component {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+	BackgroundColor #fff
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #E84927
+	FontColor #15395F
+}
+
+
+skinparam storage {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam node {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam cloud {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+
+skinparam class {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+	AttributeIconSize 14
+}
+
+
+skinparam object {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam rectangle {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam package {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam folder {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam frame {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam queue {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam card {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam file {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam stack {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam state {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+	StartColor #15395F
+	EndColor #15395F
+	AttributeFontColor #000
+	AttributeFontSize 11
+}
+
+title Usecase Diagram - blue-nexus theme
+
+legend
+This is my legend
+it can have a long list of stuff here
+and it can go on and on and on
+that's about it
+endlegend
+
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
+
+PlantUML version 1.2021.01(Tue Feb 02 08:55:08 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

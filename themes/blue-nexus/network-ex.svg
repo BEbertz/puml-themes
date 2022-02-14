@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="657.2917px" preserveAspectRatio="none" style="width:859px;height:657px;background:#00000000;" version="1.1" viewBox="0 0 859 657" width="859.375px" zoomAndPan="magnify"><defs/><g><!--MD5=[fef35d5d86525b69a6366e4548c0ec5e]
+entity HC--><rect fill="#FFFFCC" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="119.7917" x="447.3958" y="7.2917"/><image height="16.6667" width="16.6667" x="499.4792" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGCrgH7oAqQBkAEWG/Pv/f+t/EI0uAQMwG3BikAH4DIErIAaD1FNkADZDSDIAXTPYAEIYn2ZiAMFYIARgLiEbUKR5kAMA7zW3iUrbg3kAAAAASUVORK5CYII=" y="17.7083"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="90.625" x="461.9792" y="51.0366">Handle claim</text><!--MD5=[8335abc75fd0625246f531945d8c0471]
+entity CI--><rect fill="#FFFFCC" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="170.8333" x="22.9167" y="140.1042"/><image height="16.6667" width="16.6667" x="100.5208" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGCrgH7oAqQBkAEWG/Pv/f+t/EI0uAQMwG3BikAH4DIErIAaD1FNkADZDSDIAXTPYAEIYn2ZiAMFYIARgLiEbUKR5kAMA7zW3iUrbg3kAAAAASUVORK5CYII=" y="150.5208"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="141.6667" x="37.5" y="183.8491">Capture Information</text><!--MD5=[13e88d8e4422c8d855b54f0d2bc171be]
+entity NAS--><rect fill="#FFFFCC" height="78.7435" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="197.9167" x="230.2083" y="131.25"/><image height="16.6667" width="16.6667" x="321.3542" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGCrgH7oAqQBkAEWG/Pv/f+t/EI0uAQMwG3BikAH4DIErIAaD1FNkADZDSDIAXTPYAEIYn2ZiAMFYIARgLiEbUKR5kAMA7zW3iUrbg3kAAAAASUVORK5CYII=" y="141.6667"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="39.5833" x="244.7917" y="174.9949">Notify</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="168.75" x="244.7917" y="191.9708">Additional Stakeholders</text><!--MD5=[9c35c66068622dad62ecac52c54c307b]
+entity V--><rect fill="#FFFFCC" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="85.4167" x="464.5833" y="140.1042"/><image height="16.6667" width="16.6667" x="499.4792" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGCrgH7oAqQBkAEWG/Pv/f+t/EI0uAQMwG3BikAH4DIErIAaD1FNkADZDSDIAXTPYAEIYn2ZiAMFYIARgLiEbUKR5kAMA7zW3iUrbg3kAAAAASUVORK5CYII=" y="150.5208"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="56.25" x="479.1667" y="183.8491">Validate</text><!--MD5=[225a11a356cb2db3802a7b30c3a51941]
+entity I--><rect fill="#FFFFCC" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="107.2917" x="586.9792" y="140.1042"/><image height="16.6667" width="16.6667" x="632.8125" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGCrgH7oAqQBkAEWG/Pv/f+t/EI0uAQMwG3BikAH4DIErIAaD1FNkADZDSDIAXTPYAEIYn2ZiAMFYIARgLiEbUKR5kAMA7zW3iUrbg3kAAAAASUVORK5CYII=" y="150.5208"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="78.125" x="601.5625" y="183.8491">Investigate</text><!--MD5=[626ad08abde0879284d52f51a0eb42aa]
+entity P--><rect fill="#FFFFCC" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="54.1667" x="731.25" y="140.1042"/><image height="16.6667" width="16.6667" x="750.5208" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAATUlEQVR4XmNgGCrgH7oAqQBkAEWG/Pv/f+t/EI0uAQMwG3BikAH4DIErIAaD1FNkADZDSDIAXTPYAEIYn2ZiAMFYIARgLiEbUKR5kAMA7zW3iUrbg3kAAAAASUVORK5CYII=" y="150.5208"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="25" x="745.8333" y="183.8491">Pay</text><!--MD5=[621cf6a1af6543e09709f4082df4a7a8]
+entity scanning--><rect fill="#C2F0FF" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="95.8333" x="245.8333" y="272.9167"/><image height="16.6667" width="16.6667" x="285.9375" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAL0lEQVR4XmNgGAXI4B+JGAX82/r//39SMLIhJGtGN2QYGECWIcia4YaQiEcBFAAA3exLaNqtLeYAAAAASUVORK5CYII=" y="283.3333"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="66.6667" x="260.4167" y="316.6616">Scanning</text><!--MD5=[edaeb0988c2cdecb0b567f793c50fa7c]
+entity customerAdministration--><rect fill="#C2F0FF" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="202.0833" x="7.2917" y="272.9167"/><image height="16.6667" width="16.6667" x="100.5208" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAL0lEQVR4XmNgGAXI4B+JGAX82/r//39SMLIhJGtGN2QYGECWIcia4YaQiEcBFAAA3exLaNqtLeYAAAAASUVORK5CYII=" y="283.3333"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="172.9167" x="21.875" y="316.6616">Customer admnistration</text><!--MD5=[09b9482de9a7688608e1bd31497bef3b]
+entity claimsAdministration--><rect fill="#C2F0FF" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="178.125" x="378.6458" y="272.9167"/><image height="16.6667" width="16.6667" x="459.8958" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAL0lEQVR4XmNgGAXI4B+JGAX82/r//39SMLIhJGtGN2QYGECWIcia4YaQiEcBFAAA3exLaNqtLeYAAAAASUVORK5CYII=" y="283.3333"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="148.9583" x="393.2292" y="316.6616">Claims admnistration</text><!--MD5=[a32ac4b913c5471dd81d070b472ebc22]
+entity Printing--><rect fill="#C2F0FF" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="83.3333" x="593.75" y="272.9167"/><image height="16.6667" width="16.6667" x="627.6042" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAL0lEQVR4XmNgGAXI4B+JGAX82/r//39SMLIhJGtGN2QYGECWIcia4YaQiEcBFAAA3exLaNqtLeYAAAAASUVORK5CYII=" y="283.3333"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="54.1667" x="608.3333" y="316.6616">Printing</text><!--MD5=[1f684f0298694fdc450f2524689bdb7b]
+entity Payment--><rect fill="#C2F0FF" height="61.7676" rx="13.0208" ry="13.0208" style="stroke:#15395F;stroke-width:1.5625;" width="91.6667" x="732.2917" y="272.9167"/><image height="16.6667" width="16.6667" x="770.3125" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAL0lEQVR4XmNgGAXI4B+JGAX82/r//39SMLIhJGtGN2QYGECWIcia4YaQiEcBFAAA3exLaNqtLeYAAAAASUVORK5CYII=" y="283.3333"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="62.5" x="746.875" y="316.6616">Payment</text><!--MD5=[765522d02420a6f826548b3dddd5143a]
+entity DMS--><rect fill="#C2F0FF" height="95.7194" style="stroke:#15395F;stroke-width:1.5625;" width="123.9583" x="560.9375" y="396.875"/><image height="16.6667" width="16.6667" x="615.1042" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAU0lEQVR4XtWNQQoAIAzD9v//+D0nHgajGvUiaCGX0WZml1IPwdTi7it6ZxgROkaBlqKoNxQQOiZBznS0EwyfAx2jQEtR1BsKCB2TIGc6+kxwyANpzYhrKPLnjFMAAAAASUVORK5CYII=" y="407.2917"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="76.0417" x="575.5208" y="440.6199">Document</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="94.7917" x="575.5208" y="457.5958">Management</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="53.125" x="575.5208" y="474.5717">System</text><!--MD5=[ff8ff1b9124d8226c243bd0d10adfb7e]
+entity CRM--><rect fill="#C2F0FF" height="95.7194" style="stroke:#15395F;stroke-width:1.5625;" width="85.4167" x="65.625" y="396.875"/><image height="16.6667" width="16.6667" x="100.5208" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAU0lEQVR4XtWNQQoAIAzD9v//+D0nHgajGvUiaCGX0WZml1IPwdTi7it6ZxgROkaBlqKoNxQQOiZBznS0EwyfAx2jQEtR1BsKCB2TIGc6+kxwyANpzYhrKPLnjFMAAAAASUVORK5CYII=" y="407.2917"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="56.25" x="80.2083" y="440.6199">General</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="33.3333" x="80.2083" y="457.5958">CRM</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="53.125" x="80.2083" y="474.5717">System</text><!--MD5=[fe5ec3176a52e6053833593eb2aecf0a]
+entity HAPA--><rect fill="#C2F0FF" height="95.7194" style="stroke:#15395F;stroke-width:1.5625;" width="131.25" x="392.7083" y="396.875"/><image height="16.6667" width="16.6667" x="450.5208" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAU0lEQVR4XtWNQQoAIAzD9v//+D0nHgajGvUiaCGX0WZml1IPwdTi7it6ZxgROkaBlqKoNxQQOiZBznS0EwyfAx2jQEtR1BsKCB2TIGc6+kxwyANpzYhrKPLnjFMAAAAASUVORK5CYII=" y="407.2917"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="100" x="407.2917" y="440.6199">Home &amp; Away</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="40.625" x="407.2917" y="457.5958">Policy</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="102.0833" x="407.2917" y="474.5717">Administration</text><!--MD5=[724085995ead44be612df75085abf928]
+entity HFPA--><rect fill="#C2F0FF" height="95.7194" style="stroke:#15395F;stroke-width:1.5625;" width="131.25" x="721.875" y="396.875"/><image height="16.6667" width="16.6667" x="779.6875" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAU0lEQVR4XtWNQQoAIAzD9v//+D0nHgajGvUiaCGX0WZml1IPwdTi7it6ZxgROkaBlqKoNxQQOiZBznS0EwyfAx2jQEtR1BsKCB2TIGc6+kxwyANpzYhrKPLnjFMAAAAASUVORK5CYII=" y="407.2917"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="100" x="736.4583" y="440.6199">Home &amp; Away</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="61.4583" x="736.4583" y="457.5958">Financial</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="102.0833" x="736.4583" y="474.5717">Administration</text><!--MD5=[a522607fef711207ea73795372327450]
+reverse link HC to CI--><path d="M434.0417,60.6563 C373.9479,78.6563 286.8125,105.4479 211.4583,131.25 C203.3229,134.0313 194.8542,137.0313 186.4375,140.0833 " fill="none" id="HC-backto-CI" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="447.1979,56.7187,440.0156,54.5192,435.2228,60.303,442.4051,62.5026,447.1979,56.7187" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[b1f5b8e0640995d1b67042bcd303a18e]
+reverse link HC to NAS--><path d="M455.4063,77.1354 C432.2292,94.1562 404.9479,114.1771 381.6875,131.25 " fill="none" id="HC-backto-NAS" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="466.4271,69.0521,458.9232,69.3912,456.3501,76.4483,463.854,76.1092,466.4271,69.0521" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[2a8c24708113dcdeb72b889478c4f067]
+reverse link HC to V--><path d="M507.2917,82.7708 C507.2917,101.5521 507.2917,123.0208 507.2917,139.9375 " fill="none" id="HC-backto-V" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="507.2917,69.0521,503.125,75.3021,507.2917,81.5521,511.4583,75.3021,507.2917,69.0521" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[e03048a568ab2e6287dac676bc12e279]
+reverse link HC to I--><path d="M547.6979,78.6771 C567.7813,98.375 591.6563,121.7813 610.1771,139.9375 " fill="none" id="HC-backto-I" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="537.8854,69.0521,539.4329,76.4025,546.8131,77.8012,545.2656,70.4508,537.8854,69.0521" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[e02214edac90ec49836d3b0b90aedb8c]
+reverse link HC to P--><path d="M580.1771,66.0417 C620.5625,82.3854 670.8646,105.1042 712.5,131.25 C718.8438,135.2292 725.2396,140.0208 731.1667,144.8542 " fill="none" id="HC-backto-P" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="567.4375,60.9583,571.6993,67.1438,579.0482,65.5889,574.7864,59.4034,567.4375,60.9583" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[5e0dda7a9a0984063b9c3c14619870a6]
+link CI to NAS--><path d="M194.1667,170.8333 C203.3125,170.8333 212.4688,170.8333 221.625,170.8333 " fill="none" id="CI-to-NAS" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="230.0208,170.8333,221.6875,167.7083,221.6875,173.9583,230.0208,170.8333" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[cafff266ac3c4c2e93290a47d0dacd08]
+link NAS to V--><path d="M428.3229,170.8333 C437.5313,170.8333 446.7396,170.8333 455.9479,170.8333 " fill="none" id="NAS-to-V" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="464.4167,170.8333,456.0833,167.7083,456.0833,173.9583,464.4167,170.8333" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[bbd02c12d15afc771ba3cd994dbd05fa]
+link V to I--><path d="M550.5208,170.8333 C559.7708,170.8333 569.0208,170.8333 578.2813,170.8333 " fill="none" id="V-to-I" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="586.7708,170.8333,578.4375,167.7083,578.4375,173.9583,586.7708,170.8333" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[447133c6a6e25a3eb28bcd0bdd26bac7]
+link I to P--><path d="M694.4167,170.8333 C703.7188,170.8333 713.0208,170.8333 722.3333,170.8333 " fill="none" id="I-to-P" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="730.875,170.8333,722.5417,167.7083,722.5417,173.9583,730.875,170.8333" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[9a6efcb15eba50e9239fad587fb8d92b]
+reverse link CI to scanning--><path d="M155.1771,204.9063 C184.7813,225.7708 222.7188,252.5208 251.4063,272.75 " fill="none" id="CI-backto-scanning" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="150.875,201.8646,156.1288,210.6765,155.1292,204.8693,160.9364,203.8697,150.875,201.8646" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[984c588074ef0da2deea881df04aa6db]
+reverse link CI to customerAdministration--><path d="M108.3333,207.2396 C108.3333,227.7396 108.3333,253.2708 108.3333,272.75 " fill="none" id="CI-backto-customerAdministration" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="108.3333,201.8646,104.1667,211.2396,108.3333,207.0729,112.5,211.2396,108.3333,201.8646" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[8ecff785e85efddb5ba310c7b3ed1d8b]
+reverse link NAS to claimsAdministration--><path d="M374.3542,214.5104 C394.5417,233.5729 417.8542,255.5625 436.1354,272.8125 " fill="none" id="NAS-backto-claimsAdministration" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="370.3542,210.7396,374.3254,220.199,374.1469,214.3092,380.0367,214.1307,370.3542,210.7396" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[60288631082e755b8f2dada6e8a60a6f]
+reverse link V to claimsAdministration--><path d="M496.6667,206.9688 C490.4479,227.5208 482.6771,253.1875 476.75,272.75 " fill="none" id="V-backto-claimsAdministration" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="498.2083,201.8646,491.5129,209.6378,496.7049,206.8512,499.4915,212.0433,498.2083,201.8646" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[70691af649478fc45b3c72fd1351c183]
+reverse link I to claimsAdministration--><path d="M596.6042,205.1563 C569.0417,225.9896 533.8438,252.6042 507.1979,272.75 " fill="none" id="I-backto-claimsAdministration" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="600.9583,201.8646,590.9676,204.1963,596.8042,205.0062,595.9942,210.8429,600.9583,201.8646" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[18bbbe8583269181a3039c0acc0364e2]
+reverse link P to Payment--><path d="M763.6875,207.2396 C766.7917,227.7396 770.6563,253.2708 773.6042,272.75 " fill="none" id="P-backto-Payment" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="762.875,201.8646,760.1759,211.7624,763.6636,207.0129,768.4131,210.5006,762.875,201.8646" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[f34d667a8747f9ff4f3cb4cb2a3b7289]
+reverse link V to Printing--><path d="M540.6667,205.9375 C560.9688,226.6458 586.6563,252.8542 606.1563,272.75 " fill="none" id="V-backto-Printing" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="536.6875,201.8646,540.2734,211.4767,540.333,205.5844,546.2252,205.644,536.6875,201.8646" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[e8dd704b2c05bc08c9c9751e9a8f1e02]
+reverse link P to Printing--><path d="M727.2083,204.9792 C707.5938,225.8438 682.4688,252.5625 663.4688,272.7708 " fill="none" id="P-backto-Printing" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="731.0521,200.8854,721.6009,204.8763,727.4904,204.6856,727.6811,210.575,731.0521,200.8854" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[09a989ae0aa70e1b8fcdc4ca38deb34c]
+reverse link scanning to DMS--><path d="M361.625,334.3646 C443.8646,365.2813 470.3125,363.7083 542.7083,396.875 C548.5729,399.5625 554.5625,402.5521 560.5,405.6875 " fill="none" id="scanning-backto-DMS" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="358.7708,341.0729,341.9688,326.7604,364.0208,327.4688,358.7708,341.0729" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[43cd1bbbf9ea14fbdb99051ab204e9e1]
+reverse link Printing to DMS--><path d="M630.8229,355.7604 C629.625,369.1667 628.3229,383.5521 627.1458,396.7292 " fill="none" id="Printing-backto-DMS" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="623.6042,354.6146,632.7396,334.5208,638.1354,355.9271,623.6042,354.6146" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[0b4d5daf3de61acf21cc95b2f91d502c]
+reverse link customerAdministration to CRM--><path d="M108.3333,355.7604 C108.3333,369.1667 108.3333,383.5521 108.3333,396.7292 " fill="none" id="customerAdministration-backto-CRM" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="101.0417,355.3542,108.3333,334.5208,115.625,355.3542,101.0417,355.3542" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[8b7d3a0937a751bd06bf63fec091a9ae]
+reverse link claimsAdministration to HAPA--><path d="M464.2604,355.7604 C463.3646,369.1667 462.3958,383.5521 461.5,396.7292 " fill="none" id="claimsAdministration-backto-HAPA" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="457.0208,354.8125,465.6979,334.5208,471.5729,355.7917,457.0208,354.8125" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[0382d4650c88da8121d971a3fea6dc14]
+reverse link Payment to HFPA--><path d="M781.5729,355.7604 C782.4688,369.1667 783.4375,383.5521 784.3333,396.7292 " fill="none" id="Payment-backto-HFPA" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="774.2604,355.7917,780.1354,334.5208,788.8125,354.8125,774.2604,355.7917" style="stroke:#999999;stroke-width:1.0416666666666667;"/><rect fill="#FFF4D1" height="134.8796" rx="5.2083" ry="5.2083" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="439.5833" x="8.3333" y="506.1361"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="418.75" x="18.75" y="529.0476">Example from the "Archisurance case study" (OpenGroup).</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="28.125" x="18.75" y="546.0236">See</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="554.6712" y2="554.6712"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="556.7546" y2="556.7546"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUElEQVR4XmNgGBJA1DL+H7oYSQBkAEWGgDT//7/1P05DYDbgwyADcBqCrIAYjGEIqQZgGEKqAVhdQAjj1EwMgBlAlmYQgLkCXZxoQJHmwQ8Ao1DP3Wvt3nYAAAAASUVORK5CYII=" y="561.2305"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="133.3333" x="38.5417" y="573.4161">:business process</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="582.0638" y2="582.0638"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="584.1471" y2="584.1471"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVR4XmNgGAVwIGoZ/48UjKF56////0nBcEPI0YxiyDAwgNxwwBoTpGAUzSMcAABNPGO8nlxnqwAAAABJRU5ErkJggg==" y="588.623"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="141.6667" x="38.5417" y="600.8087">: application service</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="609.4564" y2="609.4564"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="611.5397" y2="611.5397"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAXElEQVR4XmNgoAUQtYz/RwxG1wcHIMmt////x4cxDEA3HRmja8ZpALoimEJ0MZwG4MLomrEagAxwacJrALqtJLsAn0J0MZwG4MLomrEagAxwaRpiBhCD0fUNDAAARsKZHFW+aysAAAAASUVORK5CYII=" y="616.0156"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="173.9583" x="38.5417" y="628.2013">: application component</text><!--MD5=[5df846611ef308e455a9ccebb7595fca]
+@startuml
+
+!$THEME = "blue-nexus"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+!$WHITE = "#fff"
+!$BLACK = "#000"
+!$GRAY = "#999"
+!$PRIMARY = "#0C98D6"
+!$SECONDARY = "#F5F5F5"
+!$SUCCESS = "#51ADA1"
+!$INFO = "#2396D6"
+!$WARNING = "#F3BB00"
+!$DANGER = "#E84927"
+!$LIGHT = "#F1F1F1"
+!$DARK = "#15395F"
+
+!$FGCOLOR = $BLACK
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_TEXT = $FGCOLOR
+!$SECONDARY_BORDER = $GRAY
+
+!$INFO_TEXT = $WHITE
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_TEXT = $WHITE
+!$DANGER_TEXT = $WHITE
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $DARK
+	BorderColor $DARK
+!endprocedure
+
+!procedure $outline_scheme()
+	FontColor $DARK
+	BackgroundColor $WHITE
+	BorderColor $DARK
+!endprocedure
+
+!procedure $secondary_scheme()
+	FontColor $SECONDARY_TEXT
+	BorderColor $SECONDARY_BORDER
+	BackgroundColor $SECONDARY
+	BorderThickness 	         1
+!endprocedure
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       $DARK
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             $SECONDARY_BORDER
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_BORDER
+    CBorderColor $SECONDARY_BORDER
+    ABackgroundColor $SUCCESS
+    ABorderColor $SUCCESS
+    IBackgroundColor $DANGER
+    IBorderColor $DANGER
+    EBackgroundColor $WARNING
+    EBorderColor $WARNING
+    NBackgroundColor $INFO
+    NBorderColor $DARK
+}
+skinparam title {
+	$primary_scheme()
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $SECONDARY_BORDER
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY
+	TitleFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $DARK
+	StartColor $DARK
+	EndColor $DARK
+	DiamondBackgroundColor $SECONDARY
+  	DiamondBorderColor $SECONDARY_BORDER
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 1
+	Color $SECONDARY_BORDER
+	FontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $DARK
+	EndColor $DARK
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARK
+	DelayFontColor $DARK
+	LifeLineBorderColor $DARK
+	LifeLineBackgroundColor $DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderBackgroundColor $SECONDARY_BORDER
+	GroupBackgroundColor $DARK
+	GroupBodyBackgroundColor $BGCOLOR
+	GroupHeaderFontColor $PRIMARY_TEXT
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor $SECONDARY
+    DividerBorderColor $SECONDARY_BORDER
+    DividerFontColor $SECONDARY_TEXT
+	ReferenceHeaderBackgroundColor $DARK
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $PRIMARY
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$outline_scheme()
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$outline_scheme()
+}
+skinparam participant {
+  FontColor $DARK
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$outline_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$outline_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$outline_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	$outline_scheme()
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$outline_scheme()
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  $DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	$outline_scheme()
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$outline_scheme()
+	BackgroundColor $WHITE
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $BGCOLOR
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	$primary_scheme()
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	$primary_scheme()
+}
+!endsub
+
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeIconSize 14
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY
+	AttributeFontSize 11
+	AttributeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$outline_scheme()
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$secondary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	$primary_scheme()
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	$primary_scheme()
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$outline_scheme()
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$secondary_scheme()
+	StartColor $DARK
+	EndColor $DARK
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+skinparam rectangle<<behavior>> {
+	roundCorner 25
+}
+sprite $bProcess jar:archimate/business-process
+sprite $aService jar:archimate/application-service
+sprite $aComponent jar:archimate/application-component
+
+rectangle "Handle claim"  as HC <<$bProcess>><<behavior>> #Business
+rectangle "Capture Information"  as CI <<$bProcess>><<behavior>> #Business
+rectangle "Notify\nAdditional Stakeholders" as NAS <<$bProcess>><<behavior>> #Business
+rectangle "Validate" as V <<$bProcess>><<behavior>> #Business
+rectangle "Investigate" as I <<$bProcess>><<behavior>> #Business
+rectangle "Pay" as P <<$bProcess>><<behavior>> #Business
+
+HC *-down- CI
+HC *-down- NAS
+HC *-down- V
+HC *-down- I
+HC *-down- P
+
+CI -right->> NAS
+NAS -right->> V
+V -right->> I
+I -right->> P
+
+rectangle "Scanning" as scanning <<$aService>><<behavior>> #Application
+rectangle "Customer admnistration" as customerAdministration <<$aService>><<behavior>> #Application
+rectangle "Claims admnistration" as claimsAdministration <<$aService>><<behavior>> #Application
+rectangle Printing <<$aService>><<behavior>> #Application
+rectangle Payment <<$aService>><<behavior>> #Application
+
+scanning -up-> CI
+customerAdministration  -up-> CI
+claimsAdministration -up-> NAS
+claimsAdministration -up-> V
+claimsAdministration -up-> I
+Payment -up-> P
+
+Printing -up-> V
+Printing -up-> P
+
+rectangle "Document\nManagement\nSystem" as DMS <<$aComponent>> #Application
+rectangle "General\nCRM\nSystem" as CRM <<$aComponent>>  #Application
+rectangle "Home & Away\nPolicy\nAdministration" as HAPA <<$aComponent>> #Application
+rectangle "Home & Away\nFinancial\nAdministration" as HFPA <<$aComponent>>  #Application
+
+DMS .up.|> scanning
+DMS .up.|> Printing
+CRM .up.|> customerAdministration
+HAPA .up.|> claimsAdministration
+HFPA .up.|> Payment
+
+legend left
+Example from the "Archisurance case study" (OpenGroup).
+See
+====
+<$bProcess> :business process
+====
+<$aService> : application service
+====
+<$aComponent> : application component
+endlegend
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+skinparam actorStyle awesome
+
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        "Segoe UI"
+skinparam defaultFontSize        14
+skinparam DefaultFontColor       #15395F
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam BoxPadding             20
+skinparam Padding                4
+skinparam ArrowColor             #999
+skinparam stereotype {
+    CBackgroundColor #999
+    CBorderColor #999
+    ABackgroundColor #51ADA1
+    ABorderColor #51ADA1
+    IBackgroundColor #E84927
+    IBorderColor #E84927
+    EBackgroundColor #F3BB00
+    EBorderColor #F3BB00
+    NBackgroundColor #2396D6
+    NBorderColor #15395F
+}
+skinparam title {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	FontSize	    	         20
+}
+
+
+skinparam legend {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+skinparam swimlane {
+	BorderColor #999
+	BorderThickness 2
+	TitleBackgroundColor  #F5F5F5
+	TitleFontColor #000
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	BarColor #15395F
+	StartColor #15395F
+	EndColor #15395F
+	DiamondBackgroundColor #F5F5F5
+  	DiamondBorderColor #999
+	DiamondFontColor #000
+}
+
+
+skinparam arrow {
+	Thickness 1
+	Color #999
+	FontColor #000
+}
+
+
+skinparam partition {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam sequence {
+	BorderColor #0C98D6
+	TitleFontColor #0C98D6
+	BackgroundColor transparent
+	StartColor #15395F
+	EndColor #15395F
+	BoxBackgroundColor transparent
+	BoxBorderColor #15395F
+	BoxFontColor #15395F
+	DelayFontColor #15395F
+	LifeLineBorderColor #15395F
+	LifeLineBackgroundColor #15395F
+	GroupBorderColor #15395F
+	GroupFontColor #15395F
+	GroupHeaderBackgroundColor #999
+	GroupBackgroundColor #15395F
+	GroupBodyBackgroundColor transparent
+	GroupHeaderFontColor #fff
+	GroupHeaderFontStyle bold
+	DividerBackgroundColor #F5F5F5
+    DividerBorderColor #999
+    DividerFontColor #000
+	ReferenceHeaderBackgroundColor #15395F
+	ReferenceBorderColor #15395F
+	ReferenceFontColor #15395F
+	ReferenceHeaderFontColor #0C98D6
+	StereotypeFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam actor {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam collections {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+skinparam participant {
+  FontColor #15395F
+}
+
+
+skinparam control {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam entity {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam boundary {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam agent {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam database {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam note {
+	BackgroundColor  #fff4d1
+	BorderColor  #15395F
+	FontColor #15395F
+}
+
+
+skinparam artifact {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam component {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+	BackgroundColor #fff
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #E84927
+	FontColor #15395F
+}
+
+
+skinparam storage {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam node {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam cloud {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+
+skinparam class {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+	AttributeIconSize 14
+}
+
+
+skinparam object {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+	HeaderBackgroundColor #0C98D6
+	AttributeFontSize 11
+	AttributeFontColor #fff
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam rectangle {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam package {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam folder {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam frame {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam queue {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+}
+
+
+skinparam card {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam file {
+		FontColor #fff
+	BackgroundColor #15395F
+	BorderColor #15395F
+}
+
+
+skinparam stack {
+		FontColor #15395F
+	BackgroundColor #fff
+	BorderColor #15395F
+}
+
+
+skinparam state {
+		FontColor #000
+	BorderColor #999
+	BackgroundColor #F5F5F5
+	BorderThickness 	         1
+	StartColor #15395F
+	EndColor #15395F
+	AttributeFontColor #000
+	AttributeFontSize 11
+}
+skinparam rectangle<<behavior>> {
+	roundCorner 25
+}
+sprite $bProcess jar:archimate/business-process
+sprite $aService jar:archimate/application-service
+sprite $aComponent jar:archimate/application-component
+
+rectangle "Handle claim"  as HC <<$bProcess>><<behavior>> #Business
+rectangle "Capture Information"  as CI <<$bProcess>><<behavior>> #Business
+rectangle "Notify\nAdditional Stakeholders" as NAS <<$bProcess>><<behavior>> #Business
+rectangle "Validate" as V <<$bProcess>><<behavior>> #Business
+rectangle "Investigate" as I <<$bProcess>><<behavior>> #Business
+rectangle "Pay" as P <<$bProcess>><<behavior>> #Business
+
+HC *-down- CI
+HC *-down- NAS
+HC *-down- V
+HC *-down- I
+HC *-down- P
+
+CI -right->> NAS
+NAS -right->> V
+V -right->> I
+I -right->> P
+
+rectangle "Scanning" as scanning <<$aService>><<behavior>> #Application
+rectangle "Customer admnistration" as customerAdministration <<$aService>><<behavior>> #Application
+rectangle "Claims admnistration" as claimsAdministration <<$aService>><<behavior>> #Application
+rectangle Printing <<$aService>><<behavior>> #Application
+rectangle Payment <<$aService>><<behavior>> #Application
+
+scanning -up-> CI
+customerAdministration  -up-> CI
+claimsAdministration -up-> NAS
+claimsAdministration -up-> V
+claimsAdministration -up-> I
+Payment -up-> P
+
+Printing -up-> V
+Printing -up-> P
+
+rectangle "Document\nManagement\nSystem" as DMS <<$aComponent>> #Application
+rectangle "General\nCRM\nSystem" as CRM <<$aComponent>>  #Application
+rectangle "Home & Away\nPolicy\nAdministration" as HAPA <<$aComponent>> #Application
+rectangle "Home & Away\nFinancial\nAdministration" as HFPA <<$aComponent>>  #Application
+
+DMS .up.|> scanning
+DMS .up.|> Printing
+CRM .up.|> customerAdministration
+HAPA .up.|> claimsAdministration
+HFPA .up.|> Payment
+
+legend left
+Example from the "Archisurance case study" (OpenGroup).
+See
+====
+<$bProcess> :business process
+====
+<$aService> : application service
+====
+<$aComponent> : application component
+endlegend
+@enduml
+
+PlantUML version 1.2021.01(Tue Feb 02 08:55:08 CET 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

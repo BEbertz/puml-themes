@@ -5,7 +5,7 @@ entity clerk--><ellipse cx="384.6354" cy="199.2513" fill="#FFFFFF" rx="16.6667" 
 link customer to checkout--><path d="M92.5833,226.3346 C111.8021,226.3346 135.7292,226.3346 157.8021,226.3346 " fill="none" id="customer-checkout" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M223.6979,205.043 C223.6979,188.3971 223.6979,165.1576 223.6979,147.3659 " fill="none" id="checkout-to-payment" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="#999999" points="223.6979,142.0221,219.5313,151.3971,223.6979,147.2305,227.8646,151.3971,223.6979,142.0221" style="stroke:#999999;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="52.0833" x="180.9896" y="178.9337">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M223.6979,310.2513 C223.6979,293.6055 223.6979,270.3659 223.6979,252.5742 " fill="none" id="help-to-checkout" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="#999999" points="223.6979,247.2305,219.5313,256.6055,223.6979,252.4388,227.8646,256.6055,223.6979,247.2305" style="stroke:#999999;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="58.3333" x="177.8646" y="284.142">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M289.3542,226.3346 C312.0313,226.3346 336.375,226.3346 354.6458,226.3346 " fill="none" id="checkout-clerk" style="stroke:#999999;stroke-width:1.0416666666666667;"/><rect fill="#FFF4D1" height="86.6536" rx="5.2083" ry="5.2083" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="260.4167" x="79.1667" y="382.5846"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="125" x="89.5833" y="405.4962">This is my legend</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="239.5833" x="89.5833" y="422.4721">it can have a long list of stuff here</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="223.9583" x="89.5833" y="439.448">and it can go on and on and on</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="97.9167" x="89.5833" y="456.424">that's about it</text><!--MD5=[7cfa8b02aaa0782cf3e005a0d76b6d8a]
+link checkout to clerk--><path d="M289.3542,226.3346 C312.0313,226.3346 336.375,226.3346 354.6458,226.3346 " fill="none" id="checkout-clerk" style="stroke:#999999;stroke-width:1.0416666666666667;"/><rect fill="#FFF4D1" height="86.6536" rx="5.2083" ry="5.2083" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="260.4167" x="79.1667" y="382.5846"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="125" x="89.5833" y="405.4962">This is my legend</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="239.5833" x="89.5833" y="422.4721">it can have a long list of stuff here</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="223.9583" x="89.5833" y="439.448">and it can go on and on and on</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="97.9167" x="89.5833" y="456.424">that's about it</text><!--MD5=[19150cc4e049f983c787d0bbb58bc5bd]
 @startuml
 
 !$THEME = "blue-nexus"
@@ -175,45 +175,39 @@ skinparam sequence {
 !endsub
 
 !startsub participant
-
 skinparam participant {
-	$primary_scheme()
+	FontColor $INFO
+	BackgroundColor $DARK
+	BorderColor $DARK
 }
 !endsub
 
 !startsub actor
-
 skinparam actor {
 	$outline_scheme()
 }
 !endsub
 
 !startsub collections
-
 skinparam collections {
-	$outline_scheme()
-}
-skinparam participant {
-  FontColor $DARK
+	BackgroundColor $PRIMARY_TEXT
+	BorderColor $DARK
 }
 !endsub
 
 !startsub control
-
 skinparam control {
 	$outline_scheme()
 }
 !endsub
 
 !startsub entity
-
 skinparam entity {
 	$outline_scheme()
 }
 !endsub
 
 !startsub boundary
-
 skinparam boundary {
 	$outline_scheme()
 }
@@ -526,13 +520,11 @@ skinparam sequence {
 	StereotypeFontColor #fff
 }
 
-
 skinparam participant {
-		FontColor #fff
+	FontColor #2396D6
 	BackgroundColor #15395F
 	BorderColor #15395F
 }
-
 
 skinparam actor {
 		FontColor #15395F
@@ -540,16 +532,10 @@ skinparam actor {
 	BorderColor #15395F
 }
 
-
 skinparam collections {
-		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-skinparam participant {
-  FontColor #15395F
-}
-
 
 skinparam control {
 		FontColor #15395F
@@ -557,13 +543,11 @@ skinparam control {
 	BorderColor #15395F
 }
 
-
 skinparam entity {
 		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-
 
 skinparam boundary {
 		FontColor #15395F

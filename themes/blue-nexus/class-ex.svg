@@ -10,7 +10,7 @@ reverse link List to AbstractList--><path codeLine="15" d="M269.4167,161.5534 C2
 reverse link Collection to AbstractCollection--><path codeLine="16" d="M124.3438,161.0846 C116.0833,193.6159 105.3021,236.1263 98.5521,262.6992 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="none" points="117.3854,158.8659,129.5729,140.4701,131.5208,162.4492,117.3854,158.8659" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path codeLine="18" d="M212.2188,114.3555 C219.8646,114.3555 227.5208,114.3555 235.1771,114.3555 " fill="none" id="Collection-backto-List" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="none" points="212.1458,121.6471,191.3125,114.3555,212.1458,107.0638,212.1458,121.6471" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path codeLine="19" d="M198.4583,288.8346 C203.5729,288.8346 208.6979,288.8346 213.8125,288.8346 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="none" points="198.2396,296.1263,177.4063,288.8346,198.2396,281.543,198.2396,296.1263" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path codeLine="20" d="M275.5208,336.2617 C275.5208,349.8555 275.5208,364.7201 275.5208,378.3555 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="none" points="268.2292,335.8659,275.5208,315.0326,282.8125,335.8659,268.2292,335.8659" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[1de925f936346627275cae39cc86390b]
+reverse link AbstractList to ArrayList--><path codeLine="20" d="M275.5208,336.2617 C275.5208,349.8555 275.5208,364.7201 275.5208,378.3555 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="none" points="268.2292,335.8659,275.5208,315.0326,282.8125,335.8659,268.2292,335.8659" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[bf868ae83a192a5734ee8a06d4fa5633]
 @startuml
 
 !$THEME = "blue-nexus"
@@ -180,45 +180,39 @@ skinparam sequence {
 !endsub
 
 !startsub participant
-
 skinparam participant {
-	$primary_scheme()
+	FontColor $INFO
+	BackgroundColor $DARK
+	BorderColor $DARK
 }
 !endsub
 
 !startsub actor
-
 skinparam actor {
 	$outline_scheme()
 }
 !endsub
 
 !startsub collections
-
 skinparam collections {
-	$outline_scheme()
-}
-skinparam participant {
-  FontColor $DARK
+	BackgroundColor $PRIMARY_TEXT
+	BorderColor $DARK
 }
 !endsub
 
 !startsub control
-
 skinparam control {
 	$outline_scheme()
 }
 !endsub
 
 !startsub entity
-
 skinparam entity {
 	$outline_scheme()
 }
 !endsub
 
 !startsub boundary
-
 skinparam boundary {
 	$outline_scheme()
 }
@@ -540,13 +534,11 @@ skinparam sequence {
 	StereotypeFontColor #fff
 }
 
-
 skinparam participant {
-		FontColor #fff
+	FontColor #2396D6
 	BackgroundColor #15395F
 	BorderColor #15395F
 }
-
 
 skinparam actor {
 		FontColor #15395F
@@ -554,16 +546,10 @@ skinparam actor {
 	BorderColor #15395F
 }
 
-
 skinparam collections {
-		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-skinparam participant {
-  FontColor #15395F
-}
-
 
 skinparam control {
 		FontColor #15395F
@@ -571,13 +557,11 @@ skinparam control {
 	BorderColor #15395F
 }
 
-
 skinparam entity {
 		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-
 
 skinparam boundary {
 		FontColor #15395F

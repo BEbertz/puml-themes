@@ -183,45 +183,39 @@ skinparam sequence {
 !endsub
 
 !startsub participant
-
 skinparam participant {
-	$primary_scheme()
+	FontColor $INFO
+	BackgroundColor $DARK
+	BorderColor $DARK
 }
 !endsub
 
 !startsub actor
-
 skinparam actor {
 	$outline_scheme()
 }
 !endsub
 
 !startsub collections
-
 skinparam collections {
-	$outline_scheme()
-}
-skinparam participant {
-  FontColor $DARK
+	BackgroundColor $PRIMARY_TEXT
+	BorderColor $DARK
 }
 !endsub
 
 !startsub control
-
 skinparam control {
 	$outline_scheme()
 }
 !endsub
 
 !startsub entity
-
 skinparam entity {
 	$outline_scheme()
 }
 !endsub
 
 !startsub boundary
-
 skinparam boundary {
 	$outline_scheme()
 }

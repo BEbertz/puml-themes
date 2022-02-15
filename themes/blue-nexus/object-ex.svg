@@ -2,7 +2,7 @@
 reverse link Object01 to Object02--><path codeLine="21" d="M51.5625,122.3867 C51.5625,150.4805 51.5625,186.0221 51.5625,208.5117 " fill="none" id="Object01-backto-Object02" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="none" points="44.2708,122.2513,51.5625,101.418,58.8542,122.2513,44.2708,122.2513" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
 reverse link Object03 to Object04--><path codeLine="22" d="M176.5625,115.0326 C176.5625,144.0117 176.5625,184.0013 176.5625,208.5117 " fill="none" id="Object03-backto-Object04" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="176.5625,101.418,172.3958,107.668,176.5625,113.918,180.7292,107.668,176.5625,101.418" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
 reverse link Object05 to Object06--><path codeLine="23" d="M301.5625,115.0326 C301.5625,144.0117 301.5625,184.0013 301.5625,208.5117 " fill="none" id="Object05-backto-Object06" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon points="301.5625,101.418,297.3958,107.668,301.5625,113.918,305.7292,107.668,301.5625,101.418" style="stroke:#999999;stroke-width:1.0416666666666667;fill:none;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="9.375" x="285.8626" y="192.5542">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path codeLine="24" d="M446.3542,101.418 C446.3542,124.7409 446.3542,162.0951 446.3542,190.6367 " fill="none" id="Object07-Object08" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="86.4583" x="451.5625" y="151.3295">some labels</text><!--MD5=[d9187ec8651fc54845d17e2cdfc33f3c]
+link Object07 to Object08--><path codeLine="24" d="M446.3542,101.418 C446.3542,124.7409 446.3542,162.0951 446.3542,190.6367 " fill="none" id="Object07-Object08" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="86.4583" x="451.5625" y="151.3295">some labels</text><!--MD5=[23ec73cc6cf51b61db7f4bf83be69e7d]
 @startuml
 
 !$THEME = "blue-nexus"
@@ -172,45 +172,39 @@ skinparam sequence {
 !endsub
 
 !startsub participant
-
 skinparam participant {
-	$primary_scheme()
+	FontColor $INFO
+	BackgroundColor $DARK
+	BorderColor $DARK
 }
 !endsub
 
 !startsub actor
-
 skinparam actor {
 	$outline_scheme()
 }
 !endsub
 
 !startsub collections
-
 skinparam collections {
-	$outline_scheme()
-}
-skinparam participant {
-  FontColor $DARK
+	BackgroundColor $PRIMARY_TEXT
+	BorderColor $DARK
 }
 !endsub
 
 !startsub control
-
 skinparam control {
 	$outline_scheme()
 }
 !endsub
 
 !startsub entity
-
 skinparam entity {
 	$outline_scheme()
 }
 !endsub
 
 !startsub boundary
-
 skinparam boundary {
 	$outline_scheme()
 }
@@ -523,13 +517,11 @@ skinparam sequence {
 	StereotypeFontColor #fff
 }
 
-
 skinparam participant {
-		FontColor #fff
+	FontColor #2396D6
 	BackgroundColor #15395F
 	BorderColor #15395F
 }
-
 
 skinparam actor {
 		FontColor #15395F
@@ -537,16 +529,10 @@ skinparam actor {
 	BorderColor #15395F
 }
 
-
 skinparam collections {
-		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-skinparam participant {
-  FontColor #15395F
-}
-
 
 skinparam control {
 		FontColor #15395F
@@ -554,13 +540,11 @@ skinparam control {
 	BorderColor #15395F
 }
 
-
 skinparam entity {
 		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-
 
 skinparam boundary {
 		FontColor #15395F

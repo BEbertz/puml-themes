@@ -35,7 +35,7 @@ reverse link scanning to DMS--><path d="M361.625,334.3646 C443.8646,365.2813 470
 reverse link Printing to DMS--><path d="M630.8229,355.7604 C629.625,369.1667 628.3229,383.5521 627.1458,396.7292 " fill="none" id="Printing-backto-DMS" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="623.6042,354.6146,632.7396,334.5208,638.1354,355.9271,623.6042,354.6146" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[0b4d5daf3de61acf21cc95b2f91d502c]
 reverse link customerAdministration to CRM--><path d="M108.3333,355.7604 C108.3333,369.1667 108.3333,383.5521 108.3333,396.7292 " fill="none" id="customerAdministration-backto-CRM" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="101.0417,355.3542,108.3333,334.5208,115.625,355.3542,101.0417,355.3542" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[8b7d3a0937a751bd06bf63fec091a9ae]
 reverse link claimsAdministration to HAPA--><path d="M464.2604,355.7604 C463.3646,369.1667 462.3958,383.5521 461.5,396.7292 " fill="none" id="claimsAdministration-backto-HAPA" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="457.0208,354.8125,465.6979,334.5208,471.5729,355.7917,457.0208,354.8125" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[0382d4650c88da8121d971a3fea6dc14]
-reverse link Payment to HFPA--><path d="M781.5729,355.7604 C782.4688,369.1667 783.4375,383.5521 784.3333,396.7292 " fill="none" id="Payment-backto-HFPA" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="774.2604,355.7917,780.1354,334.5208,788.8125,354.8125,774.2604,355.7917" style="stroke:#999999;stroke-width:1.0416666666666667;"/><rect fill="#FFF4D1" height="134.8796" rx="5.2083" ry="5.2083" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="439.5833" x="8.3333" y="506.1361"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="418.75" x="18.75" y="529.0476">Example from the "Archisurance case study" (OpenGroup).</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="28.125" x="18.75" y="546.0236">See</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="554.6712" y2="554.6712"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="556.7546" y2="556.7546"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUElEQVR4XmNgGBJA1DL+H7oYSQBkAEWGgDT//7/1P05DYDbgwyADcBqCrIAYjGEIqQZgGEKqAVhdQAjj1EwMgBlAlmYQgLkCXZxoQJHmwQ8Ao1DP3Wvt3nYAAAAASUVORK5CYII=" y="561.2305"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="133.3333" x="38.5417" y="573.4161">:business process</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="582.0638" y2="582.0638"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="584.1471" y2="584.1471"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVR4XmNgGAVwIGoZ/48UjKF56////0nBcEPI0YxiyDAwgNxwwBoTpGAUzSMcAABNPGO8nlxnqwAAAABJRU5ErkJggg==" y="588.623"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="141.6667" x="38.5417" y="600.8087">: application service</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="609.4564" y2="609.4564"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="611.5397" y2="611.5397"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAXElEQVR4XmNgoAUQtYz/RwxG1wcHIMmt////x4cxDEA3HRmja8ZpALoimEJ0MZwG4MLomrEagAxwacJrALqtJLsAn0J0MZwG4MLomrEagAxwaRpiBhCD0fUNDAAARsKZHFW+aysAAAAASUVORK5CYII=" y="616.0156"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="173.9583" x="38.5417" y="628.2013">: application component</text><!--MD5=[5df846611ef308e455a9ccebb7595fca]
+reverse link Payment to HFPA--><path d="M781.5729,355.7604 C782.4688,369.1667 783.4375,383.5521 784.3333,396.7292 " fill="none" id="Payment-backto-HFPA" style="stroke:#999999;stroke-width:1.0416666666666667;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="774.2604,355.7917,780.1354,334.5208,788.8125,354.8125,774.2604,355.7917" style="stroke:#999999;stroke-width:1.0416666666666667;"/><rect fill="#FFF4D1" height="134.8796" rx="5.2083" ry="5.2083" style="stroke:#15395F;stroke-width:1.0416666666666667;" width="439.5833" x="8.3333" y="506.1361"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="418.75" x="18.75" y="529.0476">Example from the "Archisurance case study" (OpenGroup).</text><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="28.125" x="18.75" y="546.0236">See</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="554.6712" y2="554.6712"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="556.7546" y2="556.7546"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUElEQVR4XmNgGBJA1DL+H7oYSQBkAEWGgDT//7/1P05DYDbgwyADcBqCrIAYjGEIqQZgGEKqAVhdQAjj1EwMgBlAlmYQgLkCXZxoQJHmwQ8Ao1DP3Wvt3nYAAAAASUVORK5CYII=" y="561.2305"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="133.3333" x="38.5417" y="573.4161">:business process</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="582.0638" y2="582.0638"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="584.1471" y2="584.1471"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVR4XmNgGAVwIGoZ/48UjKF56////0nBcEPI0YxiyDAwgNxwwBoTpGAUzSMcAABNPGO8nlxnqwAAAABJRU5ErkJggg==" y="588.623"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="141.6667" x="38.5417" y="600.8087">: application service</text><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="609.4564" y2="609.4564"/><line style="stroke:#15395F;stroke-width:1.0416666666666667;" x1="8.3333" x2="447.9167" y1="611.5397" y2="611.5397"/><image height="16.6667" width="16.6667" x="18.75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAXElEQVR4XmNgoAUQtYz/RwxG1wcHIMmt////x4cxDEA3HRmja8ZpALoimEJ0MZwG4MLomrEagAxwacJrALqtJLsAn0J0MZwG4MLomrEagAxwaRpiBhCD0fUNDAAARsKZHFW+aysAAAAASUVORK5CYII=" y="616.0156"/><text fill="#15395F" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="173.9583" x="38.5417" y="628.2013">: application component</text><!--MD5=[861cf2f8afe6b0371619a5eb6b1f9b3e]
 @startuml
 
 !$THEME = "blue-nexus"
@@ -205,45 +205,39 @@ skinparam sequence {
 !endsub
 
 !startsub participant
-
 skinparam participant {
-	$primary_scheme()
+	FontColor $INFO
+	BackgroundColor $DARK
+	BorderColor $DARK
 }
 !endsub
 
 !startsub actor
-
 skinparam actor {
 	$outline_scheme()
 }
 !endsub
 
 !startsub collections
-
 skinparam collections {
-	$outline_scheme()
-}
-skinparam participant {
-  FontColor $DARK
+	BackgroundColor $PRIMARY_TEXT
+	BorderColor $DARK
 }
 !endsub
 
 !startsub control
-
 skinparam control {
 	$outline_scheme()
 }
 !endsub
 
 !startsub entity
-
 skinparam entity {
 	$outline_scheme()
 }
 !endsub
 
 !startsub boundary
-
 skinparam boundary {
 	$outline_scheme()
 }
@@ -593,13 +587,11 @@ skinparam sequence {
 	StereotypeFontColor #fff
 }
 
-
 skinparam participant {
-		FontColor #fff
+	FontColor #2396D6
 	BackgroundColor #15395F
 	BorderColor #15395F
 }
-
 
 skinparam actor {
 		FontColor #15395F
@@ -607,16 +599,10 @@ skinparam actor {
 	BorderColor #15395F
 }
 
-
 skinparam collections {
-		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-skinparam participant {
-  FontColor #15395F
-}
-
 
 skinparam control {
 		FontColor #15395F
@@ -624,13 +610,11 @@ skinparam control {
 	BorderColor #15395F
 }
 
-
 skinparam entity {
 		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-
 
 skinparam boundary {
 		FontColor #15395F

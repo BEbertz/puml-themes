@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M203.0104,147.5638 C209.7708,157.1159 228.9
 link State2 to join_state--><path d="M129.3958,264.9701 C120.8958,282.6055 114.2604,305.7617 125.5208,323.2096 C136.4167,340.0846 157.8125,348.7721 175.1458,353.1784 " fill="none" id="State2-to-join_state" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="180.375,354.418,172.2167,348.1975,175.3077,353.2143,170.2909,356.3052,180.375,354.418" style="stroke:#999999;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="Segoe UI" font-size="14.5833" lengthAdjust="spacing" textLength="111.4583" x="130.7292" y="314.8712">some message</text><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M266.7604,265.0742 C266,282.7721 262.625,305.9388 251.5625,323.2096 C242.7917,336.8971 226.4167,346.5742 214.8021,352.1055 " fill="none" id="State3-to-join_state" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="209.8438,354.3555,220.1028,354.2959,214.5908,352.2126,216.6742,346.7006,209.8438,354.3555" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M201.5625,363.1888 C201.5625,372.5846 201.5625,398.9805 201.5625,420.6471 " fill="none" id="join_state-to-State4" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="201.5625,426.0326,205.7292,416.6576,201.5625,420.8242,197.3958,416.6576,201.5625,426.0326" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M201.5625,480.6576 C201.5625,495.3555 201.5625,515.3763 201.5625,538.5221 " fill="none" id="State4-to-Active" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="201.5625,543.8242,205.7292,534.4492,201.5625,538.6159,197.3958,534.4492,201.5625,543.8242" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[c7c4db82d788223fc04dca8991e8b2bb]
+link State4 to Active--><path d="M201.5625,480.6576 C201.5625,495.3555 201.5625,515.3763 201.5625,538.5221 " fill="none" id="State4-to-Active" style="stroke:#999999;stroke-width:1.0416666666666667;"/><polygon fill="#999999" points="201.5625,543.8242,205.7292,534.4492,201.5625,538.6159,197.3958,534.4492,201.5625,543.8242" style="stroke:#999999;stroke-width:1.0416666666666667;"/><!--MD5=[91e5ba604e8728a8c9a040fbff31a5c0]
 @startuml
 
 !$THEME = "blue-nexus"
@@ -184,45 +184,39 @@ skinparam sequence {
 !endsub
 
 !startsub participant
-
 skinparam participant {
-	$primary_scheme()
+	FontColor $INFO
+	BackgroundColor $DARK
+	BorderColor $DARK
 }
 !endsub
 
 !startsub actor
-
 skinparam actor {
 	$outline_scheme()
 }
 !endsub
 
 !startsub collections
-
 skinparam collections {
-	$outline_scheme()
-}
-skinparam participant {
-  FontColor $DARK
+	BackgroundColor $PRIMARY_TEXT
+	BorderColor $DARK
 }
 !endsub
 
 !startsub control
-
 skinparam control {
 	$outline_scheme()
 }
 !endsub
 
 !startsub entity
-
 skinparam entity {
 	$outline_scheme()
 }
 !endsub
 
 !startsub boundary
-
 skinparam boundary {
 	$outline_scheme()
 }
@@ -544,13 +538,11 @@ skinparam sequence {
 	StereotypeFontColor #fff
 }
 
-
 skinparam participant {
-		FontColor #fff
+	FontColor #2396D6
 	BackgroundColor #15395F
 	BorderColor #15395F
 }
-
 
 skinparam actor {
 		FontColor #15395F
@@ -558,16 +550,10 @@ skinparam actor {
 	BorderColor #15395F
 }
 
-
 skinparam collections {
-		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-skinparam participant {
-  FontColor #15395F
-}
-
 
 skinparam control {
 		FontColor #15395F
@@ -575,13 +561,11 @@ skinparam control {
 	BorderColor #15395F
 }
 
-
 skinparam entity {
 		FontColor #15395F
 	BackgroundColor #fff
 	BorderColor #15395F
 }
-
 
 skinparam boundary {
 		FontColor #15395F

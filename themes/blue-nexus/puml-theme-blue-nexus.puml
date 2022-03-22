@@ -71,14 +71,13 @@ skinparam actorStyle awesome
 '' Global Default Values
 ''
 skinparam defaultFontName        "Segoe UI"
-skinparam defaultFontSize        14
+'skinparam defaultFontSize        14
 skinparam DefaultFontColor       $DARK
-skinparam dpi                    100
+'skinparam dpi                    100
 skinparam shadowing              false
-skinparam roundcorner            0
-skinparam BoxPadding             20
-skinparam Padding                4
-skinparam ArrowColor             $SECONDARY_BORDER
+skinparam roundcorner            10
+'skinparam BoxPadding             20
+'skinparam Padding                4
 skinparam stereotype {
     CBackgroundColor $SECONDARY_BORDER
     CBorderColor $SECONDARY_BORDER
@@ -92,8 +91,9 @@ skinparam stereotype {
     NBorderColor $DARK
 }
 skinparam title {
-	$primary_scheme()
-	FontSize	    	         20
+	$outline_scheme()
+	FontSize	    	         14
+	BorderRoundCorner            0
 }
 
 
@@ -132,6 +132,8 @@ skinparam arrow {
 	Thickness 1
 	Color $SECONDARY_BORDER
 	FontColor $SECONDARY_TEXT
+	Padding 1
+	LineColor $SECONDARY_BORDER
 }
 !endsub
 
@@ -285,7 +287,7 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	$primary_scheme()
+	$outline_scheme()
 }
 !endsub
 
